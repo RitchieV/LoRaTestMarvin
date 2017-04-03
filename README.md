@@ -1,2 +1,3 @@
 # LoRaTestMarvin
 Testing Marvin LoRa Device
+Testing the LoRa module ...
